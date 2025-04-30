@@ -9,7 +9,6 @@ Installation
 Usage
 API Endpoints
 Contributing
-License
 Author
 
 ▪ Project Overview:
