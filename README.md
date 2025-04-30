@@ -65,6 +65,7 @@ bash
 Run
 Copy code
 npm start
+OR visit URl : https://localhost:3000/ after starting the server via nodemon app.js
 
 ▪ Usage:
 Once the server is running, you can use tools like Postman or Insomnia to interact with the API. You can register a new user, log in, and start managing your expenses.
