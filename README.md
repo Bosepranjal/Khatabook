@@ -5,6 +5,7 @@ Khatabook is a backend application designed to help users track their daily expe
 Project Overview
 Features
 Technologies Used
+Dependencies
 Installation
 Usage
 API Endpoints
@@ -25,6 +26,12 @@ Express.js
 MongoDB
 Mongoose
 JWT (JSON Web Tokens) for authentication
+
+▪ Dependencies installed or Packages required :
+npm i express
+npm i ejs
+npm i nodemon
+Required('fs') --> file-systems node.js builtin package for creating,deleting & reading files on the system.
 
 ▪ Installation:
 To get started with Khatabook, follow these steps:
